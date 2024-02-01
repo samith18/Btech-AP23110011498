@@ -2,6 +2,7 @@
 #include<stdlib.h>
 int main()
 {
+    //Write a C program that dynamically allocates memory for a 2D array based on user input.
     int r,c,*row,*column,*arr;
     row=&r;
     column=&c;
